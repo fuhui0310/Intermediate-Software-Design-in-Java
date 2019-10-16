@@ -16,10 +16,11 @@ public class TestCSVReader
 		// NOTE: Make sure to use relative path instead of specifying the entire
 		// path
 		// (such as /Users/alicew/myworkspace/so_on_and_so_forth).
+		final String FILENAME = "resources\\cellular_short_oneDecade.csv";	// Directory path for Mac OS X
 
 		// TODO: Make sure to test with the full input file as well
 		// final String FILENAME = "resources/cellular.csv"; // Directory path for Mac OS X
-		 final String FILENAME = "resources\\cellular.csv"; // Directory path for Windows OS (i.e. Operating System)
+		// final String FILENAME = "resources\\cellular.csv"; // Directory path for Windows OS (i.e. Operating System)
 
 		// TODO: Create the class CSVReader to parse the CSV data file
 		//       The class constructor should only take a string as argument
