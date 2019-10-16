@@ -1,0 +1,25 @@
+FEEDBACK:
+
+Typically a class modeling the data (here, DataModel.java) handles access of data 
+   from multiple CSVModels instead of having a DataModel and a GraphView for each data set.
+
+
++1 Well done in investigating using git branches in your workflow.
+
+
+Extra Credit Opportunity 1:
++3 Excellent job enabling the user to switch between the two data sets via EventHandlers!
+
+
+Extra Credit Opportunity 2:
++0.5 Good description of why you decided to use branches. 
+
++0 However, for complete extra credit describe of specific discussions you had 
+   when pair programming and how you resolved your problem. 
+   How was the discussion useful? What options did you consider?
+   Example problems are:
+   - conflicts in team design
+   - a challenging bug in your application.
+
+-Bita.
+
