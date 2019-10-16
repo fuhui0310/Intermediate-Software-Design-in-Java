@@ -1,0 +1,22 @@
+FEEDBACK:
+
+Well done in investigating the use of regular expressions!
+    Another good class to consider looking at is Pattern and Matcher:
+    https://docs.oracle.com/javase/tutorial/essential/regex/matcher.html
+
+
+-0 Invalid country name output. Why are you outputting the name of country Y when
+   the user has requested the name of country X?
+   See sample output 1 below.
+
+
+-1 Incomplete handling of CellularData class getNUmSubscriptionsInCountryForPeriod() method
+   where the user request for invalid country name results in misleading output.
+   See sample output 1 below.
+
+-Bita.
+
+
+sample output 1:
+Testing FOO (1995 to 1980): 
+Illegal Argument Request of start year 1995. Valid period for Spain is 1980 to 1995.5.10 
