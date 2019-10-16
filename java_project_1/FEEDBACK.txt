@@ -1,0 +1,19 @@
+FEEDBACK:
+
++10% submitted prior to extended deadline.
+
+
+Good labeling of your data table with years. 
+	However, as it the decimal positions are not restricted, the advantage is lost :-/
+
+
+Very good stress testing of your code.
+
+
++0.5 Excellent user feedback in case of invalid range of years.
+
+
+Good descriptive README.
+
+-Bita.
+
