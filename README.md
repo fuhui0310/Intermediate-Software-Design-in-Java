@@ -1,2 +1,4 @@
 # Intermediate-Software-Design-in-Java
+Core concepts such as OOP project design, polymorphism, inheritance and Java specific features such as interfaces, abstract classes, generics, the Collections framework. I will build a cumulative incorporating Model View Controller approach in building a cumulative project that visualized data from data.worldbank.org site.
+
 I will use a test driven development (TDD) approach in implementing our applications. The goal of this approach is to minimize bloated code by first defining how a feature is used before I start development. Otherwise, if I dive into writing code as soon as I talk to the client, I run the risk of spending lots of time on code and features that the user never uses, or writing buggy code that makes our application fail. My goal is to write good object oriented application that the user would want to use!
