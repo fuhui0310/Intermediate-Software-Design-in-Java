@@ -1,0 +1,11 @@
+FEEDBACK:
+
+Well done in converting your implementation to a generic data structure!
+	Note: If you are going to work with someone to strengthen concepts in the projects
+	      make sure to share pseudo-code instead of code.
+
+
+Good testing of your implementation. 
+
+-Bita.
+
